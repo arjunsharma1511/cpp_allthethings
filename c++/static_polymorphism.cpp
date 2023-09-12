@@ -27,3 +27,8 @@ int main() {
 
     return 0;
 }
+
+/* output
+Sum of integers: 15
+Sum of doubles: 6
+    */
